@@ -5,26 +5,17 @@
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Business Transform",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Change the Game",
       "href": "features"
-    },
-
-    {
-      "name": "Pricing",
-      "href": "pricing"
-    },
-    {
-      "name": "About",
-      "href": "about"
     }
   ],
   "callToAction": {
     "text": "Get started",
-    "href": "#"
+    "href": "pricing"
   },
   "mainHero": {
     "title": "Unlocking social media",
@@ -98,7 +89,7 @@
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Get Started",
     "items": [
       {
         "name": "Free",

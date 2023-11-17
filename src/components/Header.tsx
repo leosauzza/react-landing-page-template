@@ -62,12 +62,17 @@ const Menu = () => {
                   {item.name}
                 </Link>
               ))}
-              <a
-                href="#"
+              <Link
+                spy={true}
+                active="active"
+                smooth={true}
+                duration={1000}
+                key={callToAction.href}
+                to={callToAction.href}
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Call to action
-              </a>
+                {callToAction.text}
+              </Link>
             </div>
           </nav>
         </div>

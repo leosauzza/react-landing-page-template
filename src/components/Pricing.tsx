@@ -1,15 +1,26 @@
 import React from 'react';
 
 import config from '../config/index.json';
+import CalendlyWidget from './CalendlyWidget';
 
 const Pricing = () => {
+  const calendlyLink = 'https://calendly.com/newonenobodyno/just-a-nerdy-talk';
   const { pricing } = config;
-  const { items, title } = pricing;
-  const [firstPlan, secondPlan, thirdPlan] = items;
+  const { title } = pricing;
+  // const [firstPlan, secondPlan, thirdPlan] = items;
 
   return (
     <section className={`bg-background py-8`} id="pricing">
       <div className={`container mx-auto px-2 pt-4 pb-12 text-primary`}>
+        <h1
+          className={`w-full my-2 text-5xl font-bold leading-tight text-center text-primary`}
+        >
+          {title}
+        </h1>
+        <CalendlyWidget link={calendlyLink} />
+      </div>
+
+      {/* <div className={`container mx-auto px-2 pt-4 pb-12 text-primary`}>
         <h1
           className={`w-full my-2 text-5xl font-bold leading-tight text-center text-primary`}
         >
@@ -118,7 +129,7 @@ const Pricing = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };

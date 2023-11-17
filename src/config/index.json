@@ -27,58 +27,73 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Unlocking social media",
+    "subtitle": "thoughts",
+    "description": "Transforming Tweets into actionable strategies with IA.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
-      "href": "#"
+      "href": "mailto:contact@elastic-pixel.com?subject=lets make a call!"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": ""
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Transform your business",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Unlock the Twitter Tapestry",
+        "description": "Dive into the Twitterverse, effortlessly weaving a rich mosaic of insights. Our meticulous data process captures user sentiments, trends, and invaluable information. Elevate understanding with our comprehensive Twitter data harvesting.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Crafting Intelligence",
+        "description": "In this pivotal stage, shape raw data into a refined masterpiece. Our ETL process, a symphony of Extraction, Transformation, and Loading, breathes life into gathered information. Witness data metamorphosing into a structured narrative, ready to empower your decisions - where information becomes actionable intelligence.",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Empowering Decisions with Precision",
+        "description": "Step into a realm where data seamlessly converges with cutting-edge intelligence. Our advanced Natural Language Processing (NLP) model orchestrates within our robust infrastructure, transforming information into a powerful asset. Experience the harmonious synergy as our model empowers your decisions with effortless precision.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
     "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "subtitle": "How we change the game",
+    "description": "Step into a realm of transformative solutions. Elevate strategies, decisions, and success with our innovations.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
-      },
-      {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
-      },
-      {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Increase sales",
+        "description": "Boost revenue with our data-driven insights and targeted strategies. Elevate your sales performance effortlessly.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Enterprise-ready",
+        "description": "Seamlessly integrate our solutions into your enterprise for unparalleled efficiency and productivity. Be ready.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Unlimited growth",
+        "description": "Fuel unlimited business growth with our insights and strategic decision-making capabilities. Propel your success.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Recommended by experts",
+        "description": "Trusted by industry leaders for our proven solutions. Gain expert-approved strategies for success..",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Modern platform",
+        "description": "Experience cutting-edge analytics on our modern platform. Stay ahead with advanced, streamlined technologies.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Integrations",
+        "description": "Seamless connections with our platform. Maximize efficiency with integrated solutions for a cohesive analytical experience.",
+        "icon": "/assets/images/nextjs.svg"
       }
     ]
   },
@@ -145,9 +160,9 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/company/elastic-pixel"
     }
   }
 }
